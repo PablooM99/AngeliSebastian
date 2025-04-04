@@ -144,6 +144,7 @@ body {
   position: relative;
   display: inline-block;
   color: var(--secondary-color);
+  font-size: 130px;
   animation: shimmer 2s infinite;
 }
 @keyframes shimmer {
